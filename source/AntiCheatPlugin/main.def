@@ -1,0 +1,15 @@
+LIBRARY	"AntiCheatPlugin"
+EXPORTS
+	Supports
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
+	ProcessTick
+	OnPlayerText
+	OnPlayerConnect
+	OnPlayerUpdate
+	OnPlayerStateChange
+	OnPlayerSpawn
+	OnPlayerDeath
+	OnPlayerDisconnect
